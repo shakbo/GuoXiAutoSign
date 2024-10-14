@@ -63,9 +63,9 @@ namespace GuoXiAutoSign.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cc_by_21b728bb {
+        internal static System.Drawing.Bitmap cc_by {
             get {
-                object obj = ResourceManager.GetObject("cc-by.21b728bb", resourceCulture);
+                object obj = ResourceManager.GetObject("cc-by", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace GuoXiAutoSign.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cc_logo_f0ab4ebe {
+        internal static System.Drawing.Bitmap cc_logo {
             get {
-                object obj = ResourceManager.GetObject("cc-logo.f0ab4ebe", resourceCulture);
+                object obj = ResourceManager.GetObject("cc-logo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace GuoXiAutoSign.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cc_nc_218f18fc {
+        internal static System.Drawing.Bitmap cc_nc {
             get {
-                object obj = ResourceManager.GetObject("cc-nc.218f18fc", resourceCulture);
+                object obj = ResourceManager.GetObject("cc-nc", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace GuoXiAutoSign.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cc_sa_d1572b71 {
+        internal static System.Drawing.Bitmap cc_sa {
             get {
-                object obj = ResourceManager.GetObject("cc-sa.d1572b71", resourceCulture);
+                object obj = ResourceManager.GetObject("cc-sa", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

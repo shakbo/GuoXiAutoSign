@@ -240,7 +240,7 @@
             // 
             // pictureBoxSA
             // 
-            this.pictureBoxSA.Image = global::GuoXiAutoSign.Properties.Resources.cc_sa_d1572b71;
+            this.pictureBoxSA.Image = global::GuoXiAutoSign.Properties.Resources.cc_sa;
             this.pictureBoxSA.Location = new System.Drawing.Point(229, 119);
             this.pictureBoxSA.Name = "pictureBoxSA";
             this.pictureBoxSA.Size = new System.Drawing.Size(30, 30);
@@ -251,7 +251,7 @@
             // 
             // pictureBoxNC
             // 
-            this.pictureBoxNC.Image = global::GuoXiAutoSign.Properties.Resources.cc_nc_218f18fc;
+            this.pictureBoxNC.Image = global::GuoXiAutoSign.Properties.Resources.cc_nc;
             this.pictureBoxNC.Location = new System.Drawing.Point(193, 119);
             this.pictureBoxNC.Name = "pictureBoxNC";
             this.pictureBoxNC.Size = new System.Drawing.Size(30, 30);
@@ -262,7 +262,7 @@
             // 
             // pictureBoxBY
             // 
-            this.pictureBoxBY.Image = global::GuoXiAutoSign.Properties.Resources.cc_by_21b728bb;
+            this.pictureBoxBY.Image = global::GuoXiAutoSign.Properties.Resources.cc_by;
             this.pictureBoxBY.Location = new System.Drawing.Point(157, 119);
             this.pictureBoxBY.Name = "pictureBoxBY";
             this.pictureBoxBY.Size = new System.Drawing.Size(30, 30);
@@ -273,7 +273,7 @@
             // 
             // pictureBoxCC
             // 
-            this.pictureBoxCC.Image = global::GuoXiAutoSign.Properties.Resources.cc_logo_f0ab4ebe;
+            this.pictureBoxCC.Image = global::GuoXiAutoSign.Properties.Resources.cc_logo;
             this.pictureBoxCC.Location = new System.Drawing.Point(121, 119);
             this.pictureBoxCC.Name = "pictureBoxCC";
             this.pictureBoxCC.Size = new System.Drawing.Size(30, 30);
