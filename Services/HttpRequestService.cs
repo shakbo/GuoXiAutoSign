@@ -43,11 +43,7 @@ namespace GuoXiAutoSign.Services
 
                 if (responseObject.Message.Contains("You've checked!"))
                 {
-                    _formMain.Invoke((MethodInvoker)delegate
-                    {
-                        MessageBox.Show("該節課已成功簽到！");
-                    });
-                    return ResponseStatus.Code.Success;
+                    return ResponseStatus.Code.Failed;
                 }
 
                 _formMain.Invoke((MethodInvoker)delegate
