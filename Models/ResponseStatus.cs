@@ -6,8 +6,9 @@
         {
             PendingConnection = 0,
             Success = 1,
-            Failed = 2,
-            Unexpected = 3,
+            Checked = 2,
+            Failed = 3,
+            Unexpected = 4,
         }
     }
 }

@@ -15,6 +15,7 @@ namespace GuoXiAutoSign.Handlers
                         labelStatus.Text = "等待連線恢復";
                         break;
 
+                    case ResponseStatus.Code.Checked:
                     case ResponseStatus.Code.Success:
                         labelStatus.Text = "等待下次點名";
                         break;

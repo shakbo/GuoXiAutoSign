@@ -43,7 +43,7 @@ namespace GuoXiAutoSign.Services
 
                 if (responseObject.Message.Contains("You've checked!"))
                 {
-                    return ResponseStatus.Code.Failed;
+                    return ResponseStatus.Code.Checked;
                 }
 
                 _formMain.Invoke((MethodInvoker)delegate
